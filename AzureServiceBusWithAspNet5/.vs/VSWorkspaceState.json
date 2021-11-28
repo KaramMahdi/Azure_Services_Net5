@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SampleShared\\Models",
+    "\\SampleWebSender",
+    "\\SampleWebSender\\Services"
+  ],
+  "SelectedNode": "\\SampleWebSender\\Services\\AzureBusService.cs",
+  "PreviewInSolutionExplorer": false
+}
